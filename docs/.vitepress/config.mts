@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/Open-Source-Newspaper-Collection/',
-  title: "OpenSourceNewspaperCollection",
+  title: "OSNC",
   description: "一个用于收集本人感兴趣的开源项目的记事本",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -17,13 +17,14 @@ export default defineConfig({
         text: '工具',
         items: [
           { text: 'Everything AI Chat', link: '/tool/Everything AI Chat' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'ungoogled chromium', link: '/tool/ungoogled-chromium' },
+          { text: 'VutronMusic', link: '/tool/VutronMusic' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/xxt1115/Open-Source-Newspaper-Collection' }
     ]
   }
 })
