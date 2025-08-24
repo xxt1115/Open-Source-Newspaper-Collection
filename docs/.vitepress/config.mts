@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Open-Source-Newspaper-Collection/',
   title: "OpenSourceNewspaperCollection",
   description: "一个用于收集本人感兴趣的开源项目的记事本",
   themeConfig: {
