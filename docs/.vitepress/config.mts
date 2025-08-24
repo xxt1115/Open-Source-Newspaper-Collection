@@ -9,14 +9,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '项目列表', link: '/Everything AI Chat' }
+      { text: '项目列表', link: '/tool/Everything AI Chat' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '工具',
         items: [
-          { text: 'Everything AI Chat', link: '/Everything AI Chat' },
+          { text: 'Everything AI Chat', link: '/tool/Everything AI Chat' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
