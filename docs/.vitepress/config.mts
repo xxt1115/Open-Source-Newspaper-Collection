@@ -19,6 +19,8 @@ export default defineConfig({
           { text: 'Everything AI Chat', link: '/tool/Everything AI Chat' },
           { text: 'ungoogled chromium', link: '/tool/ungoogled-chromium' },
           { text: 'VutronMusic', link: '/tool/VutronMusic' },
+          { text: 'PairDrop', link: '/PairDrop' },
+          { text: 'Squish', link: '/Squish' },
         ]
       }
     ],
