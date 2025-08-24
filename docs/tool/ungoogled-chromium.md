@@ -1,6 +1,5 @@
 # 无痕浏览新时代：ungoogled-chromium——真正属于你的隐私浏览器
 
-![ungoogled-chromium 浏览器界面]
 
 在当今互联网时代，隐私保护已成为每个网民不可忽视的重要议题。虽然Chromium作为开源浏览器项目广受欢迎，但其与Google服务的深度绑定却让许多注重隐私的用户望而却步。今天，我要为大家介绍一款真正尊重用户隐私的浏览器——**ungoogled-chromium**。
 

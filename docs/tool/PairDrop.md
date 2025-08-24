@@ -1,6 +1,5 @@
 # PairDrop：跨平台文件传输的极简方案
 
-![PairDrop界面示意图]
 
 ## 什么是PairDrop？
 
